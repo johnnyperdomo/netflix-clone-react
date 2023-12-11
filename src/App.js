@@ -5,7 +5,7 @@ import netflix_logo from "./assets/netflix-logo.png";
 const base_image_path = "https://image.tmdb.org/t/p/w500";
 
 const movie_discovery_path =
-    "https://api.themoviedb.org/3/discover/movie?api_key=c4ab30e3d2e7ebc7dc5c4d34d7530491&language=en-US&sort_by=popularity.desc&include_adult=false&include_video=false&page=1&with_watch_monetization_types=flatrate";
+    "https://api.themoviedb.org/3/discover/movie?api_key=7053d2afad4e42651641ff9e144dab67&language=en-US&sort_by=popularity.desc&include_adult=false&include_video=false&page=1&with_watch_monetization_types=flatrate";
 
 const genres = [
     { id: 28, name: "Action" },
